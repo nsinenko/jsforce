@@ -4,6 +4,6 @@ Adding this package to your Meteor application adds jsforce object into the glob
 
 Server side only.
 
-### Installation
+#### Installation
 
 meteor add nsinenko:jsforce
