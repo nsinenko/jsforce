@@ -1,0 +1,1 @@
+jsforce = Npm.require('jsforce');
