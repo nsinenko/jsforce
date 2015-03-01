@@ -1,13 +1,13 @@
 Package.describe({
   summary: "Meteor wrapper around jsforce library",
-  version: '1.3.1',
+  version: '1.4.1',
   name: 'nsinenko:jsforce',
   git: 'https://github.com/nsinenko/jsforce.git',
   documentation: 'README.md'
 });
 
 Npm.depends({
-  jsforce: '1.3.1'
+  jsforce: '1.4.1'
 });
 
 Package.on_use(function (api) {
